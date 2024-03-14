@@ -5,7 +5,7 @@ title:               DH 101 Workspace
 tagline:             'My experimental workspace'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+baseurl:             '/dh-101'
 
 # About/contact
 author:
